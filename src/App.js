@@ -1,4 +1,5 @@
 import "./styles/buttons.css"
+import "./styles/app.css"
 import { useReducer } from 'react'
 import DigitButton from "./Buttons/DigitButton"
 import OperationButton from "./Buttons/OperationButton"
